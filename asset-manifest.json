@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/marxiemuks-dev/yis_test.git/static/css/main.e6c13ad2.css",
-    "main.js": "/marxiemuks-dev/yis_test.git/static/js/main.d9b0744f.js",
-    "static/js/453.d855a71b.chunk.js": "/marxiemuks-dev/yis_test.git/static/js/453.d855a71b.chunk.js",
-    "index.html": "/marxiemuks-dev/yis_test.git/index.html",
-    "main.e6c13ad2.css.map": "/marxiemuks-dev/yis_test.git/static/css/main.e6c13ad2.css.map",
-    "main.d9b0744f.js.map": "/marxiemuks-dev/yis_test.git/static/js/main.d9b0744f.js.map",
-    "453.d855a71b.chunk.js.map": "/marxiemuks-dev/yis_test.git/static/js/453.d855a71b.chunk.js.map"
+    "main.css": "/yis_test/static/css/main.e6c13ad2.css",
+    "main.js": "/yis_test/static/js/main.b7ae4a22.js",
+    "static/js/453.d855a71b.chunk.js": "/yis_test/static/js/453.d855a71b.chunk.js",
+    "index.html": "/yis_test/index.html",
+    "main.e6c13ad2.css.map": "/yis_test/static/css/main.e6c13ad2.css.map",
+    "main.b7ae4a22.js.map": "/yis_test/static/js/main.b7ae4a22.js.map",
+    "453.d855a71b.chunk.js.map": "/yis_test/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d9b0744f.js"
+    "static/js/main.b7ae4a22.js"
   ]
 }
