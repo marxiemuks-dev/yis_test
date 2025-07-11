@@ -1,0 +1,20 @@
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS'
+export const REGISTER_FAIL = 'REGISTER_FAIL'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAIL = 'LOGIN_FAIL'
+
+export const UPDATE_SUCCESS = 'UPDATE_SUCCESS'
+export const UPDATE_FAIL = 'UPDATE_FAIL'
+export const LOGOUT = 'LOGOUT'
+
+export const ADD_USER = 'ADD_USER'
+export const GET_USERS = 'GET_USERS'
+export const GET_USER = 'GET_USER'
+
+export const SET_MESSAGE = 'SET_MESSAGE'
+export const CLEAR_MESSAGE = 'CLEAR_MESSAGE'
+
+export const GET_ALL_APPLICANTS = 'GET_ALL_APPLICANTS'
+export const ADD_APPLICANTS = 'ADD_APPLICANTS'
+export const REMOVE_APPLICANT = 'REMOVE_APPLICANT'
+export const UPDATE_APPLICANT = 'UPDATE_APPLICANT'
