@@ -18,7 +18,7 @@ const DashboardLayout = () => {
         setUser(parsedUser);
       } catch (err) {
         console.error('Failed to parse user:', err);
-        navigate('/login')
+        // navigate('/login')
       }
     }
   }, [navigate]);
